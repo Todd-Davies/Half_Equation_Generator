@@ -1,0 +1,43 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.24)  24 JAN 2013 19:03
+entering extended mode
+**\documentclass{article}[twocolumn]
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+! Missing number, treated as zero.
+<to be read again> 
+                   t
+<*> \documentclass{article}[twocolumn]
+                                      
+? 
+! Emergency stop.
+<to be read again> 
+                   t
+<*> \documentclass{article}[twocolumn]
+                                      
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 193 strings out of 493921
+ 2002 string characters out of 3147279
+ 49031 words of memory out of 3000000
+ 3582 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 21i,0n,17p,161b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
